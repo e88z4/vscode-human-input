@@ -1,0 +1,14 @@
+.vscode/**
+.vscode-test/**
+src/**
+node_modules/**
+coverage/**
+.gitignore
+.github/**
+jest.config.js
+tsconfig.json
+esbuild.config.mjs
+**/*.test.ts
+**/__tests__/**
+**/__mocks__/**
+*.map

@@ -3,8 +3,12 @@
   "displayName": "Human in the Loop",
   "description": "Enable AI assistants like GitHub Copilot to interact with humans through intuitive VS Code dialogs. Provides tools for user input, choices, confirmations, and feedback.",
   "version": "1.6.0",
-  "publisher": "your-company",
+  "publisher": "e88z4",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/e88z4/vscode-human-input.git"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
